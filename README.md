@@ -33,7 +33,7 @@ I worked as a 𝗦𝗗𝗘𝗧 𝗶𝗻𝘁𝗲𝗿𝗻 𝗮𝘁 𝗛𝗮𝗿�
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-harness&theme=algolia" alt="chetan-harness" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-harness&theme=algolia" alt="chetan-harness"/></p>
 
 ## 🛠️ My Skills
 
